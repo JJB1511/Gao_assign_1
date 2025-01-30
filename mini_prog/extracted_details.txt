@@ -1,0 +1,40 @@
+Processing Faculty Profiles Gao.html...
+Name: Dr. Byron Gao
+Title: Associate Professor
+Department: Computer Science
+Office: CMAL 311D
+Phone: (512) 245-0348
+Email: jg66@txstate.edu
+----------------------------------------
+Processing Faculty Profiles King.html...
+Name: Rick King
+Title: Lecturer
+Department: Computer Science
+Office: CMAL 211
+Phone: (512) 245-3409
+Email: ck1224@txstate.edu
+----------------------------------------
+Processing Faculty Profiles Lakomsky.html...
+Name: Gregory Randell Lakomski
+Title: Lecturer
+Department: Computer Science
+Office: CMAL 211
+Phone: (512) 245-3409
+Email: gl1082@txstate.edu
+----------------------------------------
+Processing Faculty Profiles Lehr.html...
+Name: Dr. Ted Lehr
+Title: Associate Professor of Practice
+Department: Computer Science
+Office: CMAL 211
+Phone: (512) 245-3666
+Email: t_l81@txstate.edu
+----------------------------------------
+Processing Faculty Profiles.html...
+Name: Dr. Lee-Song Koh
+Title: Senior Lecturer
+Department: Computer Science
+Office: CMAL 309A
+Phone: (512) 245-7438
+Email: lk04@txstate.edu
+----------------------------------------

@@ -1,0 +1,9 @@
+# Mini Programming Assignment 1
+# CS 3378
+# Juan Banda 10/14/24
+
+**** To run in vscode ****
+- Open folder "mini prog"
+-Switch to "Theory_prog_assig_1" file
+- run clicking "Run python code"
+- output is in "extracted details.txt" file
